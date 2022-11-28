@@ -1,0 +1,38 @@
+main {
+  width: 100%;
+  background-color: black;
+}
+
+.hero-banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 1120px;
+  margin: 0px auto;
+  background-image: url('../app/images/Hero_Image.png');
+}
+
+.hero-banner .Heading {
+  margin-top: 200px;
+  margin-bottom: 30px;
+}
+
+.hero-banner .Button {
+  margin-bottom: 165px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,8 @@
+.Heading {
+  font-family: Roboto;
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: center;
+  color: var(--white);
+  text-shadow: -1px 8px 7px 0px #00000063;
+}

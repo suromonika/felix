@@ -1,0 +1,12 @@
+.Header {
+  background-color: var(--black);
+  padding: 15px 20px;
+}
+
+.central-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1120px;
+  margin: 0px auto;
+}

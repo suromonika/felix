@@ -1,0 +1,10 @@
+.ContentBlock {
+  display: grid;
+  box-sizing: border-box;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 100px;
+  row-gap: 50px;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 50px 55px;
+}

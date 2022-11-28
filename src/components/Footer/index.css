@@ -1,0 +1,15 @@
+.Footer {
+  width: 100%;
+  background-color: var(--grey);
+}
+
+.Footer img {
+  height: 50px;
+  margin: 24px 5px;
+}
+
+.Footer__copyright-info {
+  font-family: Roboto;
+  color: var(--white);
+  font-weight: 700;
+}
